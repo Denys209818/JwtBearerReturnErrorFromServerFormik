@@ -1,0 +1,9 @@
+.dragIn 
+{
+    border: 2px dashed black;
+}
+
+.default
+{
+    border: 1px solid silver;
+}
